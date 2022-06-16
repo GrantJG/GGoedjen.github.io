@@ -1,0 +1,44 @@
+---
+title: "Recovery Analysis"
+output: html_notebook
+---
+```{r setup}
+source(here::here("Scripts","Neonic_Functions.R")) # Read in custom R functions and most useful packages from base script.
+
+sampleData <- read_csv(here("QQQ", "SampleData.csv")) %>%  # importing raw sample data
+  mutate("target" = str_to_lower(target)) 
+
+```
+
+```{r names}
+names(sampleData)
+
+unique(sampleData$target)
+
+sampleData[is.na(sampleData$target),] %>% distinct(.)
+```
+
+```{r Surrogate}
+(surrogates <- sampleData %>% 
+  filter(target %in% c("fipronil",
+                       "clothianidin",
+                       "imidacloprid")) %>% 
+   filter(!str_detect(str_to_lower(sample), "blank|std|blnk|solvent|method|mq|surrogate")))
+
+(surrogatePlot <- 
+ggplot(surrogates) + 
+  aes(y = as.numeric(estimateRA), x = log10(recovery), color = recovery) + 
+  geom_point() + 
+  facet_wrap(~target) + theme_linedraw())+ geom_vline(xintercept = log10(0.08))
+
+str(surrogates)
+
+surrogatePlot + theme_linedraw() + geom_vline(xintercept = log10(0.08)) + scale_x_continuous(trans = "pseudo_log")
+
+surrogatePlot <- 
+ggplot(surrogates) + 
+  aes(y = as.numeric(estimateRA), x = as.numeric(estimate), color = -log10(recovery)) + 
+  geom_point() + 
+  facet_wrap(~target) + theme_linedraw()
+
+````
