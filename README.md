@@ -7,18 +7,7 @@
 
 
 # Contact Information
-
-[<img src="https://www.freepnglogos.com/pics/email">](goedj011@gmail.com)
-[<img src="https://www.freepnglogos.com/pics/logo-websites">](https://williamarnold.org)
-
-
-
-# About Me
-
-# Current Research Projects
-
-# Past Reserach Projects
-
-# Education
-
-# Experience
+## Email
+[Email Me!](Goedj011@umn.edu)
+## Lab Website
+See the latest work going on in our lab [here!](https://williamarnold.org)
