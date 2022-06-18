@@ -152,12 +152,15 @@ Thank you to the <a href = "https://www.compostfoundation.org/Research/College-S
 
 <h1>Publications</h1>
 
-Take a look at the interesting work going on in the <a href = "https://williamarnold.org">Arnold Lab Group</a>! Our latest work are listed below.Doctoral dissertation, Wilmington University]
+Take a look at the interesting work going on in the <a href = "https://williamarnold.org">Arnold Lab Group</a>! Our latest work are listed below:
+<br>
 <br>
 Berens, M.B. 2020. <a href = "https://hdl.handle.net/11299/220617"><em>Exploring the Reactions and Presence of Munitions Compounds and Insecticides in Aquatic Systems</em></a>[Doctoral Disserdation, University of Minnesota]. University of Minnesota Digital Conservatory.
 <br>
+<br>
 Berens, M.B., Capel, P.D., Arnold, W.A. 2021. <a href = "https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4959"><em>Neonicotinoid Insecticides in Surface Water, Groundwater, and Wastewater across Land Use Gradients and Potential Effects.</em></a> Environ. Tox. Chem. 40(4)1017-1033. Open Access. 
 <a href = "https://doi.org/10.13020/760y-wc14">Download the data!</a>
+<br>
 <br>
 Todey, S.A., Fallon, A.M., Arnold, W.A. <a href = "https://doi.org/10.1002/etc.4959"><em>Neonicotinoid insecticide hydrolysis and photolysis: Rates and residual toxicity.</em></a> Environ. Toxicol. Chem.  37(11), 2797-2809. Data repository for UMN data set. Open Access.
 <a href = "https://doi.org/10.13020/D6XQ2S">Download the data!</a>
