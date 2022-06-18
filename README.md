@@ -1,7 +1,7 @@
 
 <p float = "center">
-<img style="float: left;" src="./Figures/Headshot" height = "150">
-<img style="float: right;" src="./Figures/Goldy.png" height ="100">
+<img style="float: left;" src="./Figures/Headshot" height = "250">
+<img style="float: right;" src="./Figures/Goldy.png" height ="175">
 </p>
 
 
@@ -9,7 +9,7 @@
 
 Welcome to my personal research page! Here you can find my most recent work, presentations, awards, and publications from the Arnold Lab Group!
 
-# A Special Thank YOu
+# A Special Thank You
 
 Before we get into it, I would like to thank all of my undergradate lab assistants without whom this resaerch would not be possible. Sylvia, Sydney, Joe, Tim, and Nam have been critical to preparing and processing the hundreds of water samples we get each year. Without them, I never would have gotten this far on my research.
 
