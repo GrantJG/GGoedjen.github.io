@@ -81,7 +81,7 @@ Neonicotinoids are by-far the most popular pesticide used in Minnesota agricultu
 Neonicotinoids are a systemic pesticide, meaning that instead of just hanging around on the surface of the plant or in the soil, the insecticides are taken up and metabolized by the plant! Just like nicotine, neonicotinoids bind to the nicotinic acetylcholine receptor in the central nervous system. While this has a limited reaction in larger mammals, this can cause paralysis, siezures, and eventually death in insects! Ideally that would mean that neonicotinoids should be taken up and trapped in the body of the plant and only effect smaller pest insects without effecting larger organisms; Unfortunately that is often not the case. While much of the applied insecticides do remain in the body of the plant, it is not uncommon to find them where they shouldn't be! Our lab has detected them at appreciable concentrations all over, including in many of Minnesota's lakes, rivers, and springs. We even find them in wastewater and drinking water plants! To learn more, check out our paper on <a href="https://hdl.handle.net/11299/220617"><it>Neonicotinoids in Minnesota Surface Waters</it></a> and take a look at my latest poster to be presented at the 2022 Gordon Research Conference on Water Chemistry! That not all, Neonicotinoids have been found in <a href = "https://doi.org/10.1021/jf501397m">grocery store produce</a>,
  <a href = "https://doi.org/10.1016/j.jeem.2020.102320">agricultural products</a>, <a href = "https://doi.org/10.1016/j.biocontrol.2009.09.001">non-target insects</a>, <a href = "https://doi.org/10.1016/j.jchromb.2015.03.016">honey</a>, <a href = "https://doi.org/10.1021/jf404100x">tea</a>, <a href = "https://link.springer.com/article/10.1007/s10646-012-0863-x">pollinators</a>, <a href = "https://doi.org/10.1016/j.envpol.2018.04.144">human bodily fluids</a>, <a href = "https://doi.org/10.1016/j.ecoenv.2021.112001">blood</a>, <a href = "https://doi.org/10.1016/j.scitotenv.2021.151407">seminal fluid</a>, and in <a href = "https://doi.org/10.1016/j.scitotenv.2021.151806">pregnant women</a>. Just about everyhint that comes into contact pesticides directly or indirectly seems to have at least a bit of neonicotinoid in them.
 
----
+<hr>
 
 <h2>What is Fipronil?</h2>
 
@@ -106,7 +106,7 @@ Like neonicotinoids, fipronil and it's related compounds are insecticides common
 
 Unlike neonicotinoids, however, fipronil is a broad-spectrum insecticide which can effect organisms indiscriminantly. Fipronil blocks the gabaa-gated chloride (Cl-) channels in the central nervous system of any organism unfortunate enough to be exposed and results in paralysis, siezures, and death. The lower specificity of fipronil means that a much wider suite of organissm may, and are, negatively effected. Fipronil has had observational effects on a large variety of organisms, and while it generally is not toxic to humans at low concentrations, has significantly impacted smaller nontarget organisms includeing <a href = "https://doi.org/10.1016/j.envpol.2019.05.067">fish and aquatic organisms</a> and <a href = "https://doi.org/10.1016/j.scitotenv.2021.148678">pollinators</a>.
 
----
+<hr>
 
 <h2>Environmental Fate</h2>
 
@@ -134,7 +134,7 @@ The widespead occurence of neonicotinoids, evem at these low concentrations, are
 
 
 
-<!---
+<!<hr>
 
 ## My Research
 
@@ -194,6 +194,7 @@ Questions about my research? Reach out to me by <a href = "mailto:Goedj011@umn.e
 <h2>Arnold Lab Website</h2>
 See the latest work going on our <a href = "https://williamarnold.org">lab website</a>
 
----
+<hr>
+
 Last Updated: 2022.06.18
 </body>
