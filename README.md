@@ -38,7 +38,7 @@ I would also like to thank the Arnold lab group. This amazing group of individua
 </p>
 
 
-<h2><a id = "interest">Research Intersts</a></h2>
+<h1><a id = "interest">Research Intersts</a></h1>
 
 
 My research focuses on occurence and fate of first generation of neonicotinoids (i.e. classical neoncotinoids) and  fipronil insecticides in environs. My main research focuses include:
@@ -116,17 +116,15 @@ Unlike neonicotinoids, however, fipronil is a broad-spectrum insecticide which c
 
 <h3>Neonicotinoids</h3>
 
-After applied as either a seed coating or spray treatments, there are several avenues which neonicotnoids may take to move around the environment.
-
 Neonicotnioids are highly soluble in water and experince high rates of transport as surface runoff or infiltration. Once in the water, they can survive thousands of days before degrading into one of their many degradants and can be conveyed significant distances thorugh sttreams and in groundwater, reemerging in lakes or in natural springs. In the water they can undergo hydrolysis, in which water molecules react with them to form dozens of primary transformation products. If they don't end up in water, sediment, particularly high-organic sedient, has showns to have a high sorption capacity for neonicotinoids; Meaning that neonicotinoids can hang aronud on soil and sediemt particles until they are metabolized by bacteria or swept away in water. If left on the surface, neonicotinoids are susceptable to direct and indirect photolysis and can form a suite of prodcuts with many of the same characteristics, including similar toxicity. Finally, the neonicotoinds that make it into the body of the plant may remain in the plant and iether end up in the final agricultural product and be processed into food products of remain in the root systems and either be composted or left to degrade in the field. Of course, nuisance insects may also eat the plants and be effected, but nontarget insects such as pollinators may eat pesticide-containing plant material and be negativiely impacted or return pollen to the hive where it may end up in they honey. 
 Luckily, though, neoncitnoids have very small henry's constants and do not volatilize regularly into the air - one less thing for us to worry about!
 
+<h3>Fipronil</h3> 
 
-<h3>Fipronil</h3>
+Fipronil has a compoaritevely lower solubility in water and significantly higher sorption to soils and sediments. Fipronil's moderately hydrophobic structure means that it readily partitions to soil and has limited transport in water and air. Strong sorption to solids leads to a high fraction of fipronil retained in soil, sediment, and compost with few avaible routes from hozizontal tranfer to other media. That being said, fipronil has been observed at lower concentrations but at similar rates to neonicotinoids and other insecticides and it believed to use particulate in water and air to hitch a ride in streams and wind to containated secondary locations. 
 
 
-
-<h2>Why should I care?</h2>
+<h2>Why Should You Care?</h2>
 
 While neonicotinoids are found in a huge variety of foods, they are at <b><em>very</em></b> low concentrations - we're talking ng/L and ng/kg concentrations! WHile the harmful dosage is generally in the ug/kg range. That being said, not a whole lot is understood about neonicotinoid toxicity towards humans - so keep yourself informed on the latest research and always wash your produce!
 
@@ -134,7 +132,9 @@ The widespead occurence of neonicotinoids, evem at these low concentrations, are
 
 
 
-<!<hr>
+<hr>
+
+<!---
 
 ## My Research
 
@@ -163,7 +163,6 @@ Coming Soon!
 <p align="center">
   <img src="./Figures/GRC_Summer2022.png" width = "100%"/>
 </p>
-
 
 <h2>American Chemical Society Spring 2022</h2>
 Pesticides in Minnesota’s Surface and Groundwater: Neonicotinoids, Fipronil, and Key Transformation Products.
