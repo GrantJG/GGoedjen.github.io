@@ -155,7 +155,7 @@ Thank you to the <a href = "https://www.compostfoundation.org/Research/College-S
 Take a look at the interesting work going on in the <a href = "https://williamarnold.org">Arnold Lab Group</a>! Our latest work are listed below:
 <br>
 <br>
-Berens, M.B. 2020. <a href = "https://hdl.handle.net/11299/220617"><em>Exploring the Reactions and Presence of Munitions Compounds and Insecticides in Aquatic Systems</em></a>[Doctoral Disserdation, University of Minnesota]. University of Minnesota Digital Conservatory.
+Berens, M.B. 2020. <a href = "https://hdl.handle.net/11299/220617"><em>Exploring the Reactions and Presence of Munitions Compounds and Insecticides in Aquatic Systems</em></a> [Doctoral Disserdation, University of Minnesota]. University of Minnesota Digital Conservatory.
 <br>
 <br>
 Berens, M.B., Capel, P.D., Arnold, W.A. 2021. <a href = "https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4959"><em>Neonicotinoid Insecticides in Surface Water, Groundwater, and Wastewater across Land Use Gradients and Potential Effects.</em></a> Environ. Tox. Chem. 40(4)1017-1033. Open Access. 
