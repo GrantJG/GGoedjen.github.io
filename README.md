@@ -148,6 +148,7 @@ Coming Soon!
 Pesticides in Minnesota’s Surface and Groundwater: Neonicotinoids, Fipronil, and Key Transformation Products.
 
 ## American Chemical Society Spring 2021
+Neonicotinoid Insecticides in Minnesota Surface and Groundwater: Occurance, Trends, and Future Work 
 
 # Recent Awards
 
@@ -174,5 +175,3 @@ See the latest work going on in our lab [here!](https://williamarnold.org)
 
 ---
 Last  Updated: 2022.06.19
-
-v
