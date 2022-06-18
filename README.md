@@ -166,6 +166,7 @@ Todey, S.A., Fallon, A.M., Arnold, W.A. <a href = "https://doi.org/10.1002/etc.4
 <a href = "https://doi.org/10.13020/D6XQ2S">Download the data!</a>
 
 <h1>Contact Information</h1>
+<hr>
 <h2>Email</h2>
 Questions about my research? Reach out to me by <a href = "mailto:Goedj011@umn.edu">email</a>
 <h2>Arnold Lab Website</h2>
