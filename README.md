@@ -1,10 +1,6 @@
 
----
-layout: default
----
-
 <body>
-<link rel="stylesheet" href="./stylesheets/github-light.css"> 
+<link rel="stylesheet" href="./stylesheets/normalize.css"> 
 
 <p>
 <img style="align: left;" src="./Figures/Headshot" height = "250">
