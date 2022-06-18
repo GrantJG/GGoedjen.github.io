@@ -16,7 +16,7 @@
 
 Welcome to my personal research page! Here you can find my most recent work, presentations, awards, and publications from the Arnold Lab Group! 
 
-<h1>About Me:</h1>
+<h1>About Me</h1>
 I am a current doctoral candidate with the Arnold Research laboratory at the University of Minnesota Department of Civil, Environmental and Geo Engineering and a certified EIT in the states of Minnesota and Texas. I hail from the great state of Texas where I studies Environmental Engineering at Texas Tech University where i received my Masters and Bachelors of Environmental Engineering. After I complete my work here at UMN I hope to continue my work as a post-doctoral scholar before going to work as a subject expert in hazardous waste site investigation and remediation. My current research (<a href="#interest">highlighted below</a>) focuses on environmental fate and transport of two classes of insecticides: <b><em>Neonicotinoids and Fipronil</em></b>. My research aims to identify the extent of neonicotinoid and fipronil presence in natural surface and groundwater and soil systems and track their degradation and removal through different treatment and remediation strategies.
 
 <h1>A Special Thank You</h1>
