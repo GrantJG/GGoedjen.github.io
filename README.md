@@ -190,9 +190,9 @@ Todey, S.A., Fallon, A.M., Arnold, W.A. <a href = "https://doi.org/10.1002/etc.4
 
 <h1>Contact Information</h1>
 <h2>Email</h2>
-Questions about my research? Reach out to me by email [here!](mailto:Goedj011@umn.edu)
+Questions about my research? Reach out to me by <a href = "mailto:Goedj011@umn.edu">email</a>
 <h2>Arnold Lab Website</h2>
-See the latest work going on in our lab [here!](https://williamarnold.org)
+See the latest work going on our <a href = "https://williamarnold.org">lab website</a>
 
 ---
 Last Updated: 2022.06.18
