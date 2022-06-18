@@ -115,6 +115,8 @@ While neonicotinoids are found in a huge variety of foods, they are at ***very**
 
 The widespead occurence of neonicotinoids, evem at these low concentrations, are not something that should be ignored, however. WHile these low concentraitons of insecticides aren't believed to be harmful to humans, they can wreck havoc on nontarget insects and pollinators, including bees. It has been such a prevelent issue that the European Union even [banned the use of neonicotinoids for agricultural production in 2013](https://ec.europa.eu/food/plants/pesticides/approval-active-substances/renewal-approval/neonicotinoids_en). So while we dopn't have to worry about direct toxicity to humans, we certainly should begin looking  for less harmful alternatires to help protect our pollinator friends!
 
+<a href="[url](https://ec.europa.eu/food/plants/pesticides/approval-active-substances/renewal-approval/neonicotinoids_en)">banned the use of neonicotinoids for agricultural production in 2013</a>
+
 <!---
 
 ## My Research
