@@ -1,6 +1,32 @@
-# Welcome!
+
+<p float = "center">
+<img style="float: left;" src="./Figures/Headshot" height = "150">
+<img style="float: right;" src="./Figures/Goldy.png" height ="100">
+</p>
+
+
+# Welcome! 
 
 Welcome to my personal research page! Here you can find my most recent work, presentations, awards, and publications from the Arnold Lab Group!
+
+# A Special Thank YOu
+
+Before we get into it, I would like to thank all of my undergradate lab assistants without whom this resaerch would not be possible. Sylvia, Sydney, Joe, Tim, and Nam have been critical to preparing and processing the hundreds of water samples we get each year. Without them, I never would have gotten this far on my research.
+
+
+
+<p align = "center">
+    <img src="./Figures/Sylvia.jpg" alt = "Sylvia Doerr" height = "100"/>
+
+</p>
+
+
+I would also like to thank the Arnold lab group. This amazing group of individuals have been the keystone of my sanity navigating gradschool in the middle of a globoal pandemic and the counless "upresidented times" we've faced the last two years. Their support, advice, and friendship has meant the world to me and I would not have made it this far without them.
+
+<p align = "center">
+    <img src="./Figures/ArnoldGroup.png" alt = "Arnold Lab Group (2020)" height = "110"/>
+</p>
+
 
 # Research Intersts
 
@@ -16,16 +42,29 @@ My research focuses on occurence and fate of first generation of neonicotinoids 
 ## What are Neonicotinoids?
 
 <p align="center">
-  <img src="./Figures/Neonics.png" width = "500"/>
+  <img src="./Figures/Neonics.png" width = "100%"/>
 </p>
 
+"Neo" meaning "new" and nicotinoids meaning "Nicotine-Like":
 Neoniotinoids are a suite of systemic pesticides first derived from nicotine in the early 1990's and are now one of the most frequently-applied pesticides in the world! If you've eaten produce or food produced using grain in the last 30 years, then chances are you've eaten something containing neonicinoids! 
+
+<p align="center">
+  <img src="./Figures/sales.png" width = "75%"/>
+</p>
+
+Reaching over 250,000 pounds of pure product sold in Minnesota alone in 2019, neonicotinoids are by-far the most popular pesticide used in Minnesota agriculture. T
 
 ## What is fipronil?
 
-Coming Soon! 
+<p align="center">
+  <img src="./Figures/Fip.png" width = "25%"/>
+</p>
 
 ## Why you should care?
+
+<p align="center">
+  <img src="./Figures/Slide38.jpeg" width = "100%"/>
+</p>
 
 Coming Soon! 
 
@@ -48,7 +87,12 @@ Coming Soon!
 
 # Recent Presentations
 ## Gordon Research Conference
-![2022 Gordon Research Conference Poster](.Figures/GRC_Summer2022.png)
+
+<p align="center">
+  <img src="./Figures/GRC_Summer2022.png" width = "100%"/>
+</p>
+
+
 ## American Chemical Society Spring 2022
 
 # Recent Awards
