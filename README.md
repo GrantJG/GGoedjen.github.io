@@ -12,11 +12,11 @@
 
 </p>
 
-<section>Welcome!</section>
+<h1>Welcome!</h1>
 
 Welcome to my personal research page! Here you can find my most recent work, presentations, awards, and publications from the Arnold Lab Group!
 
-<section>A Special Thank You</section>
+<h1>A Special Thank You</h1>
 
 Before we get into it, I would like to thank all of my undergradate lab assistants without whom this resaerch would not be possible. Sylvia, Sydney, Joe, Tim, and Nam have been critical to preparing and processing the hundreds of water samples we get each year. Without them, I never would have gotten this far on my research.
 
@@ -35,7 +35,7 @@ I would also like to thank the Arnold lab group. This amazing group of individua
 </p>
 
 
-<h1>Research Intersts</h1> 
+<h2>Research Intersts</h2> 
 
 My research focuses on occurence and fate of first generation of neonicotinoids (i.e. classical neoncotinoids) and  fipronil insecticides in environs. My main research focuses include:
 
@@ -48,7 +48,7 @@ My research focuses on occurence and fate of first generation of neonicotinoids 
   <li>Occurrence, fate, and degradation by industrial and residential-scale composting operations.</li>
 </ul>
 
-<h1>What are Neonicotinoids?</h1>
+<h2>What are Neonicotinoids?</h2>
 
 <p align="center">
   <img src="./Figures/Neonics.png" width = "100%"/>
@@ -79,7 +79,7 @@ Neonicotinoids are a systemic pesticide, meaning that instead of just hanging ar
 
 ---
 
-<h1>What is Fipronil?</h1>
+<h2>What is Fipronil?</h2>
 
 <p align="center">
   <img src="./Figures/Fip.png" width = "25%"/>
@@ -104,13 +104,13 @@ Unlike neonicotinoids, however, fipronil is a broad-spectrum insecticide which c
 
 ---
 
-<h1>Environmental Fate</h1>
+<h2>Environmental Fate</h2>
 
 <p align="center">
   <img src="./Figures/Slide38.jpeg" width = "100%"/>
 </p>
 
-<h2>Neonicotinoids</h2>
+<h3>Neonicotinoids</h3>
 
 After applied as either a seed coating or spray treatments, there are several avenues which neonicotnoids may take to move around the environment.
 
@@ -118,11 +118,11 @@ Neonicotnioids are highly soluble in water and experince high rates of transport
 Luckily, though, neoncitnoids have very small henry's constants and do not volatilize regularly into the air - one less thing for us to worry about!
 
 
-<h2>Fipronil</h2>
+<h3>Fipronil</h3>
 
 
 
-<h1>Why should I care?</h1>
+<h2>Why should I care?</h2>
 
 While neonicotinoids are found in a huge variety of foods, they are at <b><em>very</em></b> low concentrations - we're talking ng/L and ng/kg concentrations! WHile the harmful dosage is generally in the ug/kg range. That being said, not a whole lot is understood about neonicotinoid toxicity towards humans - so keep yourself informed on the latest research and always wash your produce!
 
@@ -153,25 +153,25 @@ Coming Soon!
 -->
 
 
-<section>Recent Presentations</section>
-<h1>Gordon Research Conference</h1>
+<h1>Recent Presentations</h1>
+<h2>Gordon Research Conference</h2>
 
 <p align="center">
   <img src="./Figures/GRC_Summer2022.png" width = "100%"/>
 </p>
 
 
-<h1>American Chemical Society Spring 2022</h1>
+<h2>American Chemical Society Spring 2022</h2>
 Pesticides in Minnesota’s Surface and Groundwater: Neonicotinoids, Fipronil, and Key Transformation Products.
 
-<h1>American Chemical Society Spring 2021</h1>
+<h2>American Chemical Society Spring 2021</h2>
 Neonicotinoid Insecticides in Minnesota Surface and Groundwater: Occurance, Trends, and Future Work 
 
-<section>Recent Awards</section>
+<h1>Recent Awards</h1>
 
 Thank you to the <a href = "https://www.compostfoundation.org/Research/College-Scholarships">Compost Research and Educational Foundation</a> for their generous contributions in recognition of my research on pesticide fate in commercial composting operations!
 
-<section>Publications</section>
+<h1>Publications</h1>
 
 Take a look at the interesting work going on in the <a href = "https://williamarnold.org">Arnold Lab Group</a>! Our latest work are listed below.Doctoral dissertation, Wilmington University]
 
@@ -184,10 +184,10 @@ Berens, M.B., Capel, P.D., Arnold, W.A. 2021. <a href = "https://setac.onlinelib
 Todey, S.A., Fallon, A.M., Arnold, W.A. <a href = "https://doi.org/10.1002/etc.4959"><em>Neonicotinoid insecticide hydrolysis and photolysis: Rates and residual toxicity.</em></a> Environ. Toxicol. Chem.  37(11), 2797-2809. Data repository for UMN data set. Open Access.
 <a href = "https://doi.org/10.13020/D6XQ2S">Download the associated data!<\a>
 
-<section>Contact Information</section>
-<h1>Email</h1>
+<h1>Contact Information</h1>
+<h2>Email</h2>
 Questions about my research? Reach out to me by email [here!](mailto:Goedj011@umn.edu)
-<h1>Arnold Lab Website</h1>
+<h2>Arnold Lab Website</h2>
 See the latest work going on in our lab [here!](https://williamarnold.org)
 
 ---
