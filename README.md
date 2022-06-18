@@ -17,7 +17,7 @@ Before we get into it, I would like to thank all of my undergradate lab assistan
 
 
 <p align = "center">
-    <img src="./Figures/Sylvia.jpg" alt = "Sylvia Doerr" height = "100"/>
+    <img src="./Figures/Sylvia.jpg" alt = "Sylvia Doerr" width = "35%"/>
 
 </p>
 
@@ -25,7 +25,7 @@ Before we get into it, I would like to thank all of my undergradate lab assistan
 I would also like to thank the Arnold lab group. This amazing group of individuals have been the keystone of my sanity navigating gradschool in the middle of a globoal pandemic and the counless "upresidented times" we've faced the last two years. Their support, advice, and friendship has meant the world to me and I would not have made it this far without them.
 
 <p align = "center">
-    <img src="./Figures/ArnoldGroup.png" alt = "Arnold Lab Group (2020)" height = "110"/>
+    <img src="./Figures/ArnoldGroup.png" alt = "Arnold Lab Group (2020)" width = "100%"/>
 </p>
 
 
