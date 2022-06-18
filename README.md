@@ -1,5 +1,5 @@
 
-<p float = "center">
+<p>
 <img style="float: left;" src="./Figures/Headshot" height = "250">
 <img style="float: right;" src="./Figures/Goldy.png" height ="175">
 </p>
