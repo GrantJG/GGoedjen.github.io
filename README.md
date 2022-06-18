@@ -1,3 +1,5 @@
+
+<body>
 <link rel="stylesheet" href="./stylesheets/github-light.css"> 
 
 <p>
@@ -69,7 +71,7 @@ Neonicotinoids are a systemic pesticide, meaning that instead of just hanging ar
 
 ---
 
-## What is fipronil?
+## What is Fipronil?
 
 <p align="center">
   <img src="./Figures/Fip.png" width = "25%"/>
@@ -175,3 +177,4 @@ See the latest work going on in our lab [here!](https://williamarnold.org)
 
 ---
 Last  Updated: 2022.06.19
+</body>
