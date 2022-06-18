@@ -195,5 +195,5 @@ Questions about my research? Reach out to me by email [here!](mailto:Goedj011@um
 See the latest work going on in our lab [here!](https://williamarnold.org)
 
 ---
-Last  Updated: 2022.06.18
+Last Updated: 2022.06.18
 </body>
