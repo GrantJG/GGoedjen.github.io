@@ -53,7 +53,8 @@ My research focuses on occurence and fate of first generation of neonicotinoids 
 Neoniotinoids are a suite of systemic pesticides first derived from nicotine in the early 1990's and are now one of the most frequently-applied pesticides in the world! The most common neonicotinoids include: **Imidacloprid, Clothianidin, Thiamethoxam, Thiacloprid, and Acetamiprid**. Chances are if you've eaten produce or food produced using grain in the last 30 years, then chances are you've eaten something containing neonicinoids! 
 
 <p align="center">
-  <img src="./Figures/sales.png" width = "75%"/>
+  <img src= "./Figures/sales.png" width = "50%"/>
+  <p align = "center"> (Minnesota Dept. Agriculture 2019)</p>
 </p>
 
 Neonicotinoids are by-far the most popular pesticide used in Minnesota agriculture With 90,000 pounds of pure product sold in 2019 alone. The most common applications of neonicotinoids include:
