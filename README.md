@@ -89,8 +89,7 @@ Neonicotinoids are a systemic pesticide, meaning that instead of just hanging ar
   <img src="./Figures/Fip.png" width = "25%"/>
 </p>
 
-
-Like neonicotinoids, fipronil and it's related compounds are insecticides commonly used in agriculture. First derived in 1996, fipronil is used at much lower rates than neonicotinoids and are typically focused in urban and residential areas. Common uses include:
+Fipronil and it's degradation products are phenylpyrazole insecticides commonly used in agriculture. First derived in 1996, fipronil is used at much lower rates than neonicotinoids and are typically focused in urban and residential areas. Common uses include:
 
 <ul>
   <li>spray treatments for agricultural operations,</li>
@@ -98,11 +97,9 @@ Like neonicotinoids, fipronil and it's related compounds are insecticides common
   <li>termite prevention and wood preservation,</li>
   <li>flea and tick medications,</li>
   <li>bedbug treatments, </li>
+  <li>laws and turf care,</li>
   <li>and more!</li>
 </ul>
-
-
-
 
 Unlike neonicotinoids, however, fipronil is a broad-spectrum insecticide which can effect organisms indiscriminately. Fipronil blocks the gabaa-gated chloride (Cl-) channels in the central nervous system of any organism unfortunate enough to be exposed and results in paralysis, seizures, and death. The lower specificity of fipronil means that a much wider suite of organisms may, and are, negatively effected. Fipronil has had observational effects on a large variety of organisms, and while it generally is not toxic to humans at low concentrations, has significantly impacted smaller non-target organisms including <a href = "https://doi.org/10.1016/j.envpol.2019.05.067">fish and aquatic organisms</a> and <a href = "https://doi.org/10.1016/j.scitotenv.2021.148678">pollinators</a>.
 
@@ -121,7 +118,7 @@ Luckily, though, neonicotinoids have very small Henry's constants and do not vol
 
 <h3>Fipronil</h3> 
 
-Fipronil has a comparatively lower solubility in water and significantly higher sorption to soils and sediments. Fipronil's moderately hydrophobic structure means that it readily partitions to soil and has limited transport in water and air. Strong sorption to solids leads to a high fraction of fipronil retained in soil, sediment, and compost with few available routes from horizontal transfer to other media. That being said, fipronil has been observed at lower concentrations but at similar rates to neonicotinoids and other insecticides and it believed to use particulate in water and air to hitch a ride in streams and wind to contaminated secondary locations. 
+Fipronil has a comparatively lower solubility in water and significantly higher sorption to soils and sediments. Fipronil's moderately hydrophobic structure means that it readily partitions to soil and has limited transport in water and air. Strong sorption to solids leads to a high fraction of fipronil retained in soil, sediment, and compost with few available routes from horizontal transfer to other media. That being said, fipronil has been observed at lower concentrations but at similar rates to neonicotinoids and other insecticides and it believed to use particulate in water and air to hitch a ride in streams and wind to contaminated secondary locations. Fipronil has relatively low rates of photolysis, hydrolysis, and microbial degradation in sediment and water. WHen degradation products do form, they are often eaully as toxic and have similar half-lives ranging in the thousands of days.
 
 
 <h2>Why Should You Care?</h2>
