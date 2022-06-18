@@ -1,4 +1,8 @@
 
+---
+layout: default
+---
+
 <body>
 <link rel="stylesheet" href="./stylesheets/github-light.css"> 
 
@@ -177,4 +181,4 @@ See the latest work going on in our lab [here!](https://williamarnold.org)
 
 ---
 Last  Updated: 2022.06.19
-</body>
+<body/>
