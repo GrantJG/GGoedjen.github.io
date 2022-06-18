@@ -17,7 +17,7 @@
 Welcome to my personal research page! Here you can find my most recent work, presentations, awards, and publications from the Arnold Lab Group! 
 
 <h1>About Me:</h1>
-I am a current doctoral candidate with the Arnold Research laboratory at the University of Minnesota Department of Civil, Environmentalm and Geo Engineering and a certified EIT in the states of Minnesota and Texas. I hail from the great state of Texas where I studies Environmental Engineering at Texas Tech University where i recieved my Masters and Bachaelors of Environmental Engineering. After I complete my work here at UMN I hope to continue my work as a post-doctoral scholar before going to work as a subject expert in hazardous waste site investigation and remediaiton. My current research (<a href = "#Interests">highlighted below</a>) focuses on environmental fate and transport of two classes of insecticides: <b><em>Neonicotinoids and Fipronil</em></b>. My researach aims to identify the extent of neonicotinoid and fipronil presence in natural surface and groundwater and soil systems and track their degradation and remmoval through different treatment and remediation strategies.
+I am a current doctoral candidate with the Arnold Research laboratory at the University of Minnesota Department of Civil, Environmentalm and Geo Engineering and a certified EIT in the states of Minnesota and Texas. I hail from the great state of Texas where I studies Environmental Engineering at Texas Tech University where i recieved my Masters and Bachaelors of Environmental Engineering. After I complete my work here at UMN I hope to continue my work as a post-doctoral scholar before going to work as a subject expert in hazardous waste site investigation and remediaiton. My current research (highlighted below) focuses on environmental fate and transport of two classes of insecticides: <b><em>Neonicotinoids and Fipronil</em></b>. My researach aims to identify the extent of neonicotinoid and fipronil presence in natural surface and groundwater and soil systems and track their degradation and remmoval through different treatment and remediation strategies.
 
 <h1>A Special Thank You</h1>
 
@@ -37,9 +37,9 @@ I would also like to thank the Arnold lab group. This amazing group of individua
     <img src="./Figures/ArnoldGroup.png" alt = "Arnold Lab Group (2020)" width = "100%"/>
 </p>
 
-<a ID = "Interests">
+
 <h2>Research Intersts</h2>
-</a>
+
 
 My research focuses on occurence and fate of first generation of neonicotinoids (i.e. classical neoncotinoids) and  fipronil insecticides in environs. My main research focuses include:
 
