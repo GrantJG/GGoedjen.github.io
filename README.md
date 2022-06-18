@@ -2,7 +2,7 @@
 <p>
 <img style="align: left;" src="./Figures/Headshot" height = "250">
 <img width = "350" hspace="10"/>
-<img style="align: right;" src="./Figures/Goldy.png" height ="175">
+<img style="align: right;" src="./Figures/Goldy.png" height ="200">
 </p>
 
 
