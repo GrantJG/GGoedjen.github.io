@@ -1,5 +1,4 @@
 
-<title> Grant Goedjen Welcome Page </title>
 
 <body>
 <link rel="stylesheet" href="./stylesheets/normalize.css"> 
