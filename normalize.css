@@ -25,6 +25,19 @@ button {
   position: absolute;top: 180;right: 5;
 }
 
+button.grc {
+  background-color: transparent;
+  border: none;
+  color:blue;
+  font-weight: bold;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 150%;
+  position: absolute;top: 180;right: 5;
+}
+
 /**
  * 1. Set style for menu
  * {
@@ -72,7 +85,7 @@ ul li a {
  */
 
 body {
-  margin: 0;
+  margin: 10;
 }
 
 /* HTML5 display definitions
