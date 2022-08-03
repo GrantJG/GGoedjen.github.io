@@ -5,12 +5,21 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
+ * {
+  margin:0;
+  padding: 0;
+ }
 
 html {
   font-family: Geneva; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
+
+/**
+ * Set button style for the download cv button.
+ * 1. Button fixed to upper right corner of screen.
+ */
 
 button {
   background-color: transparent;
@@ -25,24 +34,9 @@ button {
   position: absolute;top: 180;right: 5;
 }
 
-button.grc {
-  background-color: transparent;
-  border: none;
-  color:blue;
-  font-weight: bold;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 150%;
-  position: absolute;top: 180;right: 5;
-}
 
 /**
- * 1. Set style for menu
- * {
-  margin:0;
-  padding:0;}
+ * Set button style for the website menu.
 
  */
 
@@ -66,7 +60,7 @@ ul li a {
   font-size: 100%;
   font-family: Geneva;
   line-height: 0px;
-  padding: 1 20;
+  padding: 1 10;
   font-weight: bold;}
 
 .row {
@@ -489,4 +483,42 @@ table {
 td,
 th {
   padding: 0;
+}
+
+/* Top Navigation Bar
+   ========================================================================== */
+/* Add a black background color to the top navigation */
+
+.topnav {
+  background-color: #df9eab;
+  overflow: auto;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #7a0019;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #7a0019;
+  color: #df9eab;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #ffde7a;
+  color: #7a0019;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
 }
