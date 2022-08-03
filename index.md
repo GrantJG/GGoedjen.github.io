@@ -8,13 +8,20 @@
 </head>
 <body>
 
-<p>
+<style>
+  .bottom-three {
+     margin-bottom: 7cm;
+  }
+</style>
+
+<p class="bottom-three">
 <img align="left" src="./Figures/NCPhoto.png" height = "250">
 <img width = "50" hspace="10"/>
 <img align="right" src="./Figures/Goldy.png" height ="200">
 <img align="right" src="./Figures/DoubleT.png" height ="200">
-
 </p>
+
+
 
 <h1>Welcome!</h1>
 
