@@ -65,15 +65,24 @@ no buffer around edges so fill is to edge of viewport */
     .ban-11 {width: 91.66%;}
     .ban-12 {width: 100%;}
   }
-[class*="ban-"] {
-    width: 100%;
-  }
 
 [class="banner"]{ /* Text Banner Style: */
 background-color:#7a0019;
-padding:15px;
+padding:0.8vw;
 color:#ffcc33;
 font-family:'Geneva';
+}
+
+[class = "bannerH1"]{ /* Text Banner Style: */
+    font-size: 18pt;
+}
+[class = "bannerText"]{ /* Text Banner Style: */
+    font-size: 10pt
+}
+
+@media screen and (min-width:600px) {
+    .bannerH1 {font-size: 3.6vw}
+    .bannerText {font-size: 1.2vw}
 }
 
 /* Column Row Style: ------------------------------------ 
@@ -127,9 +136,9 @@ font-family:'Geneva';
     display: block;
     color: #d5d6d2;
     text-align: center;
-    padding: 7px 8px;
+    padding: 0.5vw 0.6vw;
     text-decoration: none;
-    font-size: 18px;
+    font-size:1.2vw;
   }
   
   /* Add an active class to highlight the current page */
@@ -158,11 +167,11 @@ font-family:'Geneva';
   
   /* Style the dropdown button to fit inside the topnav */
   .dropdown .dropbtn {
-    font-size: 18px; 
+    font-size: 1.2vw; 
     border: none;
     outline: none;
     color: #d5d6d2;
-    padding: 7px 8px;
+    padding: 0.5vw 0.6vw;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
@@ -173,7 +182,7 @@ font-family:'Geneva';
     display: none;
     position: absolute;
     background-color: #d5d6d2;
-    min-width: 160px;
+    min-width: 180px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
   }
@@ -182,7 +191,7 @@ font-family:'Geneva';
   .dropdown-content a {
     float: none;
     color: #333333;
-    padding: 10px 16px;
+    padding: 0.5vw 0.6vw;
     text-decoration: none;
     display: block;
     text-align: left;
@@ -239,9 +248,3 @@ font-family:'Geneva';
     text-align: left;
   }
 }
-
-
-  
-
-
-    
