@@ -21,17 +21,15 @@ html {
  * 1. Button fixed to upper right corner of screen.
  */
 
-button {
+buttonCV {
   background-color: transparent;
   border: none;
-  color:#7a0019;
-  font-weight: bold;
-  padding: 15px 32px;
+  color:blue;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 150%;
-  position: absolute;top: 180;right: 5;
+  font-size: 100%;
+  cursor:pointer
 }
 
 .row {
