@@ -360,3 +360,44 @@ padding: 8pt;}
     align-self: center;
 }
     
+
+[class = "bee"] {
+  width: 10vw;
+  z-index: 1;
+}
+
+ /* Allow me to overay second image over original */.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.imageBottom {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.imageTopButton {
+  position: absolute;
+  top: 23%;
+  left: 28%;
+  width: 8%;
+  cursor:pointer;
+}
+
+.imageTopDeadHidden {
+  position: absolute;
+  top: 0;
+  width:8%;
+  display: none;
+}
+
+.imageTopTraumaHidden{
+  position: absolute;
+  top: 0;
+  width:8%;
+  transform:scaleX(-1);
+  display: none;
+}
+
+
+
