@@ -75,6 +75,11 @@ font-family:'Geneva';
 
 [class = "bannerH1"]{ /* Text Banner Style: */
     font-size: 18pt;
+    color: #ffcc33
+}
+c[lass = "bannerH2"]{ /* Text Banner Style: */
+    font-size: 12pt;
+    color: #ffcc33
 }
 [class = "bannerText"]{ /* Text Banner Style: */
     font-size: 10pt
@@ -285,6 +290,18 @@ font-family:'Geneva';
     cursor:pointer;
     padding: 15pt;
     border-radius: 10px;
+  }
+
+  buttonBanner {
+    background-color: inherit;
+    border: none;
+    color: #ffcc33;
+    font-weight: bold;
+    text-align: inherit;
+    text-decoration: inherit;
+    display: inline-block;
+    font-size: inherit;
+    cursor:pointer
   }
 
 
