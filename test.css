@@ -47,23 +47,23 @@ no buffer around edges so fill is to edge of viewport */
 /* For mobile phones: */
 /* Banner class with no edge buffer: */
 [class*="ban-"] {
-    width: 100%;
+    width: 100vw;
   }
   /* For desktop: */
   @media only screen and (min-width: 768px) {
     /* For desktop: */
-    .ban-1 {width: 8.33%;}
-    .ban-2 {width: 16.66%;}
-    .ban-3 {width: 25%;}
-    .ban-4 {width: 33.33%;}
-    .ban-5 {width: 41.66%;}
-    .ban-6 {width: 50%;}
-    .ban-7 {width: 58.33%;}
-    .ban-8 {width: 66.66%;}
-    .ban-9 {width: 75%;}
-    .ban-10 {width: 83.33%;}
-    .ban-11 {width: 91.66%;}
-    .ban-12 {width: 100%;}
+    .ban-1 {width: 8.33vw;}
+    .ban-2 {width: 16.66vw;}
+    .ban-3 {width: 25vw;}
+    .ban-4 {width: 33.33vw;}
+    .ban-5 {width: 41.66vw;}
+    .ban-6 {width: 50vw;}
+    .ban-7 {width: 58.33vw;}
+    .ban-8 {width: 66.66vw;}
+    .ban-9 {width: 75vw;}
+    .ban-10 {width: 83.33vw;}
+    .ban-11 {width: 91.66vw;}
+    .ban-12 {width: 100vw;}
   }
 
 [class="banner"]{ /* Text Banner Style: */
@@ -92,18 +92,18 @@ font-family:'Geneva';
   
   @media only screen and (min-width: 768px) {
     /* For desktop: */
-    .col-1 {width: 8.33%;}
-    .col-2 {width: 16.66%;}
-    .col-3 {width: 25%;}
-    .col-4 {width: 33.33%;}
-    .col-5 {width: 41.66%;}
-    .col-6 {width: 50%;}
-    .col-7 {width: 58.33%;}
-    .col-8 {width: 66.66%;}
-    .col-9 {width: 75%;}
-    .col-10 {width: 83.33%;}
-    .col-11 {width: 91.66%;}
-    .col-12 {width: 100%;}
+    .col-1 {width: 8.33vw;}
+    .col-2 {width: 16.66vw;}
+    .col-3 {width: 25vw;}
+    .col-4 {width: 33.33vw;}
+    .col-5 {width: 41.66vw;}
+    .col-6 {width: 50vw;}
+    .col-7 {width: 58.33vw;}
+    .col-8 {width: 66.66vw;}
+    .col-9 {width: 75vw;}
+    .col-10 {width: 83.33vw;}
+    .col-11 {width: 91.66vw;}
+    .col-12 {width: 100vw;}
   }
 
 
@@ -111,7 +111,6 @@ font-family:'Geneva';
 [class*="col-"] {
     float: left;
     padding: 15px;
-    border: 1px solid red;
   }
 
   .row::after {
