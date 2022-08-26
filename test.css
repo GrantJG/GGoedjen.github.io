@@ -286,3 +286,27 @@ font-family:'Geneva';
     padding: 15pt;
     border-radius: 10px;
   }
+
+
+[class = "attn"] {
+background-color: #7a0019;
+border-color: black;
+border-radius: 8pt;
+border-width: 2pt;
+padding-left: 4%;
+padding-right: 4%;
+padding-bottom: 3%
+}
+
+[class = "attnH"] {
+color: #ffcc33;
+font-weight: bolder;
+text-align: center;
+padding: 8pt;}
+
+[class = "attnText"] {
+    color: white;
+    text-align: none;
+    align-self: center;
+}
+    
