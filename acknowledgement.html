@@ -1,50 +1,63 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" name="viewport" content="width= device-width, initital-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Goedjen Research Website</title>
-    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="test.css">
 </head>
 
-
 <body>
+<div class = "row">
+    <div class="ban-12" style="text-align: center">
+        <div class="banner">
+            <br>
+            <h1 align="center" class="bannerH1">Arnold Lab Acknowledgements</h1>
+            <br>
+        </div>
 
-<style>
-  .bottom-three {
-     margin-bottom: 2cm;
-  }
-</style>
+        <div class="topnav">
 
-
-<div style="background-color:#7a0019;padding:15px;padding:15px;color:#ffcc33;font-family:'Geneva';">
-  <h1 align="center">Acknowledgements</h1>
+          </div>
+    </div>
 </div>
 
+<div class="topnav" id="myTopnav">
+    <a class="active" href="index.html">Home</a>
+    <div class="dropdown">
+        <button class="dropbtn" href="currentprojects.html">Research Interests 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="currentprojects.html">What are Neonicotinoids and Fiproles?</a>
+          <a href="ComingSoon.html">Pesticides in Surface Water</a>
+          <a href="ComingSoon.html">Pesticides in Groundwater</a>
+          <a href="ComingSoon.html">Pesticides in Engineered Treatment Systems</a>
+          <a href="ComingSoon.html">Composting Systems</a>
+        </div>
+    </div>
+    <a href="cv.html">Circum Vitae</a>
+    <a href="presentations.html">Recent Presentation</a>
+    <a href="acknowledgement.html">Acknowledgements</a>
+    <a href="landacknowledgements.html">Land Acknowledgement</a>
+    <a href="https://williamarnold.org">Arnold Lab Website</a>
+    <a href="contact.html">Contact Me!</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
 
-<ul id="nav_ul">
-    <li class="parent"><a href="index.html">Welcome</a></li>
-    <li class="parent"><a href="#">Research Interest</a>
-            <ul class="child">
-            <li class="parent"><a href="currentprojects.html">What are Neonicotinoids and Fiproles</a></li>
-            <li class="parent"><a href="ComingSoon.html">Pesticides in Surface Water</a></li>
-            <li class="parent"><a href="ComingSoon.html">Pesticides in Groundwater</a></li>
-            <li class="parent"><a href="ComingSoon.html">Pesticides in Engineered Treatment Systems</a></li>
-            <li class="parent"><a href="ComingSoon.html">Composting Systems</a></li>
-            </ul>
-    </li>
-    <li class="parent"><a href="cv.html">Circum Vitae</a></li>
-    <li class="parent"><a href="presentations.html">Recent Presentations</a></li>
-    <li class="parent"><a href="acknowledgement.html">Acknowledgements</a></li>
-    <li class="parent"><a href="landacknowledgements.html">Land Acknowledgement</a></li>
-    <li class="parent"><a href="https://williamarnold.org">Arnold Lab Website</a></li>
-    <li class="parent"><a href="contact.html">Contact Me</a></li>
-  </ul>
+  <script>
+    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+    </script>
 
 <br>
-
-<div style="background-color:#df9eab;padding:0pt;height:35px;width:100vw;position:relative;top:-25px;z-index: -999">
-</div>
 
 <div style="margin-left: 15pt;margin-right:15pt">
 
@@ -52,38 +65,39 @@
 
 <br>
 
-
-<div class="row" style="width:1000px;margin:auto">
-    <div class="column">
-      <div align="center"><img src="./Figures/Sylvia.jpg" alt = "Sylvia Doerr" width = "66%"/>
+<div class="col-10">
+  <h2 align="center">Undergraduate Assistants</h2><br>
+  <div class="row" style="width:90vw;">
+    <div style="width: 50vw; padding: 2vw;">
+        <div align="center"><img src="./Figures/Sylvia.jpg" alt = "Sylvia Doerr" width="100%">
+        </div>
+      </div>
+      <div style="width: 50vw; padding: 2vw;">
+        <p align="center">Before we get into it, I would like to thank all of my undergraduate lab assistants without whom this research would not be possible. Sylvia, Sydney, Joe, Tim, and Nam have been critical to preparing and processing the hundreds of water samples we get each year. Without them, I never would have gotten this far on my research.
+        </p>
       </div>
     </div>
-    <div class="column">
-      <h2 align="center">Undergraduate Assistants</h2>
-      <p align="center">Before we get into it, I would like to thank all of my undergraduate lab assistants without whom this research would not be possible. Sylvia, Sydney, Joe, Tim, and Nam have been critical to preparing and processing the hundreds of water samples we get each year. Without them, I never would have gotten this far on my research.
-      </p>
-    </div>
-  </div>
 
-  <br>
-
-  <div class="row" style="width:1000px;margin:auto">
-    <div class="column">
-      <div align="center">
-        <h2 align="center">The Arnold Reserach Group</h2>
-            <p align="center">I would also like to thank the Arnold lab group. This amazing group of individuals have been the keystone of my sanity navigating graduate school in the middle of a global pandemic and the countless "upresidented times" we've faced the last two years. Their support, advice, and friendship has meant the world to me and I would not have made it this far without them.</p>
-      </div>
-    </div>
-    <div class="column">
+    <br>
+    <h2 align="center">The Arnold Reserach Group</h2>
+    <div class="row" style="width:90vw;">
+      <div style="width: 40vw; padding: 2vw;">
         <div align="center">
-        <img src="./Figures/ArnoldGroup.png" alt = "Arnold Lab Group (2020)" width = "120%"/>
+              <p align="center">I would also like to thank the Arnold lab group. This amazing group of individuals have been the keystone of my sanity navigating graduate school in the middle of a global pandemic and the countless "upresidented times" we've faced the last two years. Their support, advice, and friendship has meant the world to me and I would not have made it this far without them.</p>
+        </div>
+      </div>
+      <div style="width: 60vw; padding: 2vw;">
+          <div align="center">
+          <img src="./Figures/ArnoldGroup.png" alt = "Arnold Lab Group (2020)" width = "100%"/>
+      </div>
+      </div>
+    
     </div>
-    </div>
-  
-  </div>
-
+</div>
+</div>
 <br>
 <hr>
+<br>
 Last Updated: 2022.08.23
 
 </div>

@@ -207,7 +207,6 @@ font-family:'Geneva';
   .dropdown-content a:hover {
     background-color: rgb(244, 241, 241);
     color: black;
-    font-weight: bold;
   }
   
   /* Show the dropdown menu when the user moves the mouse over the dropdown button */
@@ -221,6 +220,10 @@ font-family:'Geneva';
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
   }
+  .topnav a, .dropdown .dropbtn {
+    font-size: 16pt;
+    padding: 4pt 6pt 4pt 6pt;
+}
   .topnav a.icon {
     float: right;
     display: block;
@@ -248,3 +251,14 @@ font-family:'Geneva';
     text-align: left;
   }
 }
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+  .column {
+    flex: 33%;
+    padding: 5px;
+  }

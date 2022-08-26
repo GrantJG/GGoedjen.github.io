@@ -1,49 +1,63 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" name="viewport" content="width= device-width, initital-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Goedjen Research Website</title>
-    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="test.css">
 </head>
 
-
 <body>
+<div class = "row">
+    <div class="ban-12" style="text-align: center">
+        <div class="banner">
+            <br>
+            <h1 align="center" class="bannerH1">Indidenous Peoples Land Acknowledgement</h1>
+            <br>
+        </div>
 
-<style>
-  .bottom-three {
-     margin-bottom: 2cm;
-  }
-</style>
+        <div class="topnav">
 
-
-<div style="background-color:#7a0019;padding:15px;padding:15px;color:#ffcc33;font-family:'Geneva';">
-  <h1 align="center">indigenous Peoples Land Acknowledgement</h1>
+          </div>
+    </div>
 </div>
 
-<ul id="nav_ul">
-  <li class="parent"><a href="index.html">Welcome</a></li>
-  <li class="parent"><a href="#">Research Interest</a>
-          <ul class="child">
-          <li class="parent"><a href="currentprojects.html">What are Neonicotinoids and Fiproles</a></li>
-          <li class="parent"><a href="ComingSoon.html">Pesticides in Surface Water</a></li>
-          <li class="parent"><a href="ComingSoon.html">Pesticides in Groundwater</a></li>
-          <li class="parent"><a href="ComingSoon.html">Pesticides in Engineered Treatment Systems</a></li>
-          <li class="parent"><a href="ComingSoon.html">Composting Systems</a></li>
-          </ul>
-  </li>
-  <li class="parent"><a href="cv.html">Circum Vitae</a></li>
-  <li class="parent"><a href="presentations.html">Recent Presentations</a></li>
-  <li class="parent"><a href="acknowledgement.html">Acknowledgements</a></li>
-  <li class="parent"><a href="landacknowledgements.html">Land Acknowledgement</a></li>
-  <li class="parent"><a href="https://williamarnold.org">Arnold Lab Website</a></li>
-  <li class="parent"><a href="contact.html">Contact Me</a></li>
-</ul>
+<div class="topnav" id="myTopnav">
+    <a class="active" href="index.html">Home</a>
+    <div class="dropdown">
+        <button class="dropbtn" href="currentprojects.html">Research Interests 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="currentprojects.html">What are Neonicotinoids and Fiproles?</a>
+          <a href="ComingSoon.html">Pesticides in Surface Water</a>
+          <a href="ComingSoon.html">Pesticides in Groundwater</a>
+          <a href="ComingSoon.html">Pesticides in Engineered Treatment Systems</a>
+          <a href="ComingSoon.html">Composting Systems</a>
+        </div>
+    </div>
+    <a href="cv.html">Circum Vitae</a>
+    <a href="presentations.html">Recent Presentation</a>
+    <a href="acknowledgement.html">Acknowledgements</a>
+    <a href="landacknowledgements.html">Land Acknowledgement</a>
+    <a href="https://williamarnold.org">Arnold Lab Website</a>
+    <a href="contact.html">Contact Me!</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
+
+  <script>
+    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+    </script>
 
 <br>
-
-<div style="background-color:#df9eab;padding:0pt;height:35px;width:100vw;position:relative;top:-25px;z-index: -999">
-</div>
 
 <div style="margin-left: 15pt;margin-right:15pt">
 
