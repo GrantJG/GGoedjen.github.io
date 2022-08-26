@@ -275,6 +275,12 @@ c[lass = "bannerH2"]{ /* Text Banner Style: */
     width: 100%;
     text-align: left;
   }
+  .topnav.responsive .dropdown .dropbtnActive {
+    display: block;
+    width: 100%;
+    text-align: left;
+    font-size: 16pt;
+  }
 }
 
 /* General Spacing Classes */
