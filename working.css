@@ -46,11 +46,9 @@ Light Gray: #d5d6d2
 no buffer around edges so fill is to edge of viewport */
 /* For mobile phones: */
 /* Banner class with no edge buffer: */
-[class*="ban-"] {
-    width: 100vw;
-  }
+
   /* For desktop: */
-  @media only screen and (min-width: 768px) {
+
     /* For desktop: */
     .ban-1 {width: 8.33vw;}
     .ban-2 {width: 16.66vw;}
@@ -80,7 +78,39 @@ no buffer around edges so fill is to edge of viewport */
     .col-80 {width: 80%;}
     .col-90 {width: 90%;}
     .col-100 {width: 100%;}
-  }
+
+    @media screen and (max-width: 600px) {
+      [class*="ban-"] {
+        width: 100vw;
+      }
+    }
+
+    .imageGone-35{
+      width: 35%;
+      align-self:center; 
+      margin-left: .1vw; 
+      margin-right: .1vw; 
+    }
+
+    .imageGone-21{
+      width: 21%;
+      align-self:center; 
+      margin-left: .1vw; 
+      margin-right: .1vw; 
+    }
+
+    .imagestay-25 {
+      width: 25%;
+      align-self:center; 
+      margin-left: .1vw; 
+      margin-right: .1vw; 
+    }
+    
+    @media screen and (max-width: 600px) {
+      .imageGone-35 {display:none;}
+      .imageGone-21 {display: none;}
+      .imagestay-25 {width:90%}
+    }
 
 [class="banner"]{ /* Text Banner Style: */
 background-color:#7a0019;
@@ -117,7 +147,7 @@ c[lass = "bannerH2"]{ /* Text Banner Style: */
   padding: 15px;
 }
   
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
     /* For desktop: */
     .col-1 {width: 8.33vw;}
     .col-2 {width: 16.66vw;}
@@ -132,8 +162,6 @@ c[lass = "bannerH2"]{ /* Text Banner Style: */
     .col-11 {width: 91.66vw;}
     .col-12 {width: 100vw;}
   }
-
-
 
 
   .row::after {
