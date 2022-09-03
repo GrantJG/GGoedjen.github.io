@@ -78,6 +78,7 @@ no buffer around edges so fill is to edge of viewport */
     .col-80 {width: 80%;}
     .col-90 {width: 90%;}
     .col-100 {width: 100%;}
+    .col-100Hide {width: 100%;}
 
     @media screen and (max-width: 600px) {
       [class*="ban-"] {
@@ -161,6 +162,10 @@ c[lass = "bannerH2"]{ /* Text Banner Style: */
     .col-10 {width: 83.33vw;}
     .col-11 {width: 91.66vw;}
     .col-12 {width: 100vw;}
+  }
+
+  @media screen and (max-width: 600px) {
+    .col-100Hide {width: 90%}
   }
 
 
